@@ -1,0 +1,1632 @@
+fileFormatVersion: 2
+guid: 52742138447be1841af0657708c985ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 88543654441695407
+    second: Crusader_Idle_0
+  - first:
+      213: 6602825227806548388
+    second: Crusader_Idle_1
+  - first:
+      213: -3893542373111272479
+    second: Crusader_Idle_2
+  - first:
+      213: 2271448026628400239
+    second: Crusader_Idle_3
+  - first:
+      213: -6081006074002732279
+    second: Crusader_Idle_4
+  - first:
+      213: 6275502017066535681
+    second: Crusader_Idle_5
+  - first:
+      213: -6609108019745896700
+    second: Crusader_Idle_6
+  - first:
+      213: 2491753745397049022
+    second: Crusader_Idle_7
+  - first:
+      213: -3090420741627968814
+    second: Crusader_Idle_8
+  - first:
+      213: -2743902805566141551
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_9
+  - first:
+      213: 1606192418785292485
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_10
+  - first:
+      213: 8740837447736782141
+    second: Crusader_Attack_1
+  - first:
+      213: 4192053965824536096
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_12
+  - first:
+      213: 4543902671630764824
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_13
+  - first:
+      213: -72641332589169798
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_14
+  - first:
+      213: 6348507791350309024
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_15
+  - first:
+      213: -7883952139317222801
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_16
+  - first:
+      213: 3049240522894181286
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_19
+  - first:
+      213: 6244777793005598612
+    second: Crusader_Attack_0
+  - first:
+      213: -8047356792528148313
+    second: Crusader_Attack_2
+  - first:
+      213: -5439358904713563970
+    second: Crusader_Attack_5
+  - first:
+      213: 3323949925729374945
+    second: Crusader_Attack_6
+  - first:
+      213: -7575608223583395623
+    second: Crusader_Attack_3
+  - first:
+      213: 1587409596285747757
+    second: Crusader_Attack_4
+  - first:
+      213: -8514935009195248022
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_69
+  - first:
+      213: -7403488869231810247
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_70
+  - first:
+      213: -3774563351309583197
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_71
+  - first:
+      213: 9178875120443560778
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_72
+  - first:
+      213: 262266330196495023
+    second: Crusader_Walk_0
+  - first:
+      213: 5475883904460873375
+    second: Crusader_Walk_1
+  - first:
+      213: 7811018826846903383
+    second: Crusader_Walk_2
+  - first:
+      213: -2766966648290928753
+    second: Crusader_Walk_3
+  - first:
+      213: -5045567974599958517
+    second: Crusader_Walk_4
+  - first:
+      213: -2500174742063637058
+    second: Crusader_Walk_5
+  - first:
+      213: -4613433784151284461
+    second: Crusader_Walk_6
+  - first:
+      213: 4863481109830637732
+    second: Crusader_Walk_7
+  - first:
+      213: -5224344604293650999
+    second: Crusader_Walk_8
+  - first:
+      213: -8459378044408147598
+    second: Crusader_Walk_9
+  - first:
+      213: 1151651675590897933
+    second: Crusader_Walk_10
+  - first:
+      213: -1124750347972669664
+    second: Crusader_Walk_11
+  - first:
+      213: 7201045747010197808
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_126
+  - first:
+      213: -2668113398114546058
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_127
+  - first:
+      213: -566390358076041345
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_128
+  - first:
+      213: 2010448991974371222
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_129
+  - first:
+      213: -523116388754246508
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_130
+  - first:
+      213: 6899052698019496805
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_131
+  - first:
+      213: -3774918970794584059
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_132
+  - first:
+      213: -8039202312757989876
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_133
+  - first:
+      213: 758655517263474235
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_134
+  - first:
+      213: 8699155290508399364
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_135
+  - first:
+      213: 7734049636971093341
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_136
+  - first:
+      213: -3490273793473187419
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_137
+  - first:
+      213: 5481750497064261755
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_138
+  - first:
+      213: 7673777796299838836
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_139
+  - first:
+      213: -169037379964373829
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_141
+  - first:
+      213: -8148377584805979958
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_142
+  - first:
+      213: 1828287009501500815
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_143
+  - first:
+      213: 3287832233025513010
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_144
+  - first:
+      213: 7065909938240514044
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_145
+  - first:
+      213: 7092966352712121890
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_146
+  - first:
+      213: -8726829232591961365
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_147
+  - first:
+      213: 8437592205282027160
+    second: PC Computer - Heroes of Might and Magic 3 - Crusader_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crusader_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 797
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8bc1e0cf19a3100800000000000000
+      internalID: 88543654441695407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 797
+        width: 43
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1a569bf82f1ab50800000000000000
+      internalID: 6602825227806548388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 797
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb65cc27db57f9c0800000000000000
+      internalID: -3893542373111272479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 797
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64a2f012fdc58f10800000000000000
+      internalID: 2271448026628400239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 797
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b031ab13deb9ba0800000000000000
+      internalID: -6081006074002732279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 797
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b8f72e5df071750800000000000000
+      internalID: 6275502017066535681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 797
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4074cd8c54bb744a0800000000000000
+      internalID: -6609108019745896700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 797
+        width: 40
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6e32e54dc749220800000000000000
+      internalID: 2491753745397049022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 798
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d204c095be9c15d0800000000000000
+      internalID: -3090420741627968814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_9
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 801
+        width: 40
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b4808afe2bbe9d0800000000000000
+      internalID: -2743902805566141551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_10
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 799
+        width: 36
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c07f92be775a4610800000000000000
+      internalID: 1606192418785292485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 557
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d68c70951bd4970800000000000000
+      internalID: 8740837447736782141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 665
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e2d381fda2d2a30800000000000000
+      internalID: 4192053965824536096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 664
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b008cb76f2f0f30800000000000000
+      internalID: 4543902671630764824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 664
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f207c71dedfef0800000000000000
+      internalID: -72641332589169798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_15
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 665
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a02c3d433e6a1850800000000000000
+      internalID: 6348507791350309024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_16
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 659
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62e0dddc43969290800000000000000
+      internalID: -7883952139317222801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_19
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 663
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a385d99914115a20800000000000000
+      internalID: 3049240522894181286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 557
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497b8550158e9a650800000000000000
+      internalID: 6244777793005598612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 557
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8688842ab025090800000000000000
+      internalID: -8047356792528148313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 557
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0b0b625e38384b0800000000000000
+      internalID: -5439358904713563970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 557
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2194ea8da012e20800000000000000
+      internalID: 3323949925729374945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 557
+        width: 94
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0a8cb35780ed690800000000000000
+      internalID: -7575608223583395623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 557
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2288ab0e9c970610800000000000000
+      internalID: 1587409596285747757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_69
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 437
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66316329bfd4d980800000000000000
+      internalID: -8514935009195248022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 417
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93921ea4916814990800000000000000
+      internalID: -7403488869231810247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_71
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 427
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acfbf661ae0e9bc0800000000000000
+      internalID: -3774563351309583197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_72
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 436
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4395bf4a4ae16f70800000000000000
+      internalID: 9178875120443560778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 293
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa48e776d1c3a300800000000000000
+      internalID: 262266330196495023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 294
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e5bac066f3efb40800000000000000
+      internalID: 5475883904460873375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 294
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c191c0d30566c60800000000000000
+      internalID: 7811018826846903383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 295
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87144f4e72c999d0800000000000000
+      internalID: -2766966648290928753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 296
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00e1efd8aa8af9b0800000000000000
+      internalID: -5045567974599958517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 292
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd94ee81589d4dd0800000000000000
+      internalID: -2500174742063637058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 291
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31560e49a6ac9ffb0800000000000000
+      internalID: -4613433784151284461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 291
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a817433d4e8e7340800000000000000
+      internalID: 4863481109830637732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 292
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c529dc13466f77b0800000000000000
+      internalID: -5224344604293650999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 293
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27150520d704a9a80800000000000000
+      internalID: -8459378044408147598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 294
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d013494e81d7bff00800000000000000
+      internalID: 1151651675590897933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusader_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 294
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f871884851460f0800000000000000
+      internalID: -1124750347972669664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_126
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 153
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03951e144f04fe360800000000000000
+      internalID: 7201045747010197808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e0cec2005f8fad0800000000000000
+      internalID: -2668113398114546058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_128
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 153
+        width: 118
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77dbae58f6c328f0800000000000000
+      internalID: -566390358076041345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_129
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 153
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69faca5d4bc86eb10800000000000000
+      internalID: 2010448991974371222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_130
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 153
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4943e108a648db8f0800000000000000
+      internalID: -523116388754246508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_131
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 153
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563072840eb5ebf50800000000000000
+      internalID: 6899052698019496805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_132
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 177
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508d7e9423bcc9bc0800000000000000
+      internalID: -3774918970794584059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_133
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 177
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eaf8e07140f6090800000000000000
+      internalID: -8039202312757989876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_134
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 177
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e21656c29478a00800000000000000
+      internalID: 758655517263474235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_135
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 177
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40396b885ab99b870800000000000000
+      internalID: 8699155290508399364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_136
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 177
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d96e60b2dd45b60800000000000000
+      internalID: 7734049636971093341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_137
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 16
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1fc232a7e009fc0800000000000000
+      internalID: -3490273793473187419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_138
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 15
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7816d49807131c40800000000000000
+      internalID: 5481750497064261755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_139
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 12
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4755bb19f3cbe7a60800000000000000
+      internalID: 7673777796299838836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_141
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 24
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4f575066577adf0800000000000000
+      internalID: -169037379964373829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_142
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 26
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac852e132c52bee80800000000000000
+      internalID: -8148377584805979958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_143
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 26
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f855cc439516f5910800000000000000
+      internalID: 1828287009501500815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_144
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 26
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236a09a0ff9b0ad20800000000000000
+      internalID: 3287832233025513010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_145
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 26
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf76abbe6a72f0260800000000000000
+      internalID: 7065909938240514044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_146
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 26
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e343151574f6260800000000000000
+      internalID: 7092966352712121890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_147
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 25
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be28cd7bc0314e680800000000000000
+      internalID: -8726829232591961365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crusader_17
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 655
+        width: 80
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a07b0869581570800000000000000
+      internalID: 8437592205282027160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
