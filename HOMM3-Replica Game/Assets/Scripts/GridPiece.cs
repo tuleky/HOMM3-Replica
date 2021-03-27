@@ -17,7 +17,7 @@ public class GridPiece : MonoBehaviour
     
     public Vector2Int GridIndex;
 
-    [SerializeField] public SpriteRenderer _spriteRenderer;
+    public SpriteRenderer _spriteRenderer;
 
     Material _defaultMaterial;
     public UnitMono UnitMonoOnTopOfGrid { get; private set; }

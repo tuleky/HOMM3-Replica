@@ -1,3 +1,4 @@
+using Commands;
 using UnityEngine;
 
 namespace Scriptable_Objects.Units
@@ -6,12 +7,12 @@ namespace Scriptable_Objects.Units
 	public class GuardianUnit : Unit
 	{
 		[SerializeField, Range(0f, 1f)] float _uniqueDefenseBonus;
-		
-		
-		public override void TakeSpecialDamageIfPossible(AttackCommand attackCommand, int calculatedFinalDamage)
+
+		public override void TrySpecialDamageTake(AttackCommand attackCommand, int calculatedFinalDamage)
 		{
-			int damageAfterDefenseBonus = calculatedFinalDamage / Mathf.Max(1, Mathf.RoundToInt(_uniqueDefenseBonus * calculatedFinalDamage));
-			attackCommand.TargetUnit.TakeDamage(damageAfterDefenseBonus);
+			int damageReducedByDefensePower = attackCommand.AttackReceiver.GetReducedDamageByDefensePower(calculatedFinalDamage);
+			int receivingDamageAfterDefenseBonus = Mathf.RoundToInt((1f - _uniqueDefenseBonus) * damageReducedByDefensePower);
+			attackCommand.AttackReceiver.TakeDamage(receivingDamageAfterDefenseBonus);
 		}
 	}
 }

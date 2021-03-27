@@ -11,8 +11,8 @@ namespace Scriptable_Objects
 		
 		
 		readonly List<GridPiece> _highlightedGridPieces = new List<GridPiece>();
-		UnitMono _lastPickedUnit;
-		
+		GridPiece _lastSelectedGridPiece;
+
 		BattleController _battleController;
 		
 		public void Initialize(BattleController battleController)
@@ -22,36 +22,61 @@ namespace Scriptable_Objects
 
 		public void OnGridPieceSelected(GridPiece selectedGridPiece)
 		{
-			selectedGridPiece._spriteRenderer.material = _gridPieceHighlightEffectSO.Material;
+			UnitMono unitMonoOnTopOfGrid = null;
+			if (_lastSelectedGridPiece)
+			{
+				_lastSelectedGridPiece.SetMaterialToDefault();
+				unitMonoOnTopOfGrid = _lastSelectedGridPiece.UnitMonoOnTopOfGrid;
+			}
 			
-			CheckGridPieceState(selectedGridPiece);
-		}
-		
-		void CheckGridPieceState(GridPiece selectedGridPiece)
-		{
 			if (selectedGridPiece.HasUnit())
 			{
-				if (_lastPickedUnit)
+				if (unitMonoOnTopOfGrid && unitMonoOnTopOfGrid != selectedGridPiece.UnitMonoOnTopOfGrid)
 				{
 					// attack command
 					SendAttackCommandToBattleController(selectedGridPiece.UnitMonoOnTopOfGrid);
+					ResetLastSelectedGridPiece();
 				}
 				else
 				{
 					UnitSelection(selectedGridPiece);
+
 				}
 			}
 			else
 			{
-				// show info about land
-				_infoPanelSO.ShowGridPieceInfo(selectedGridPiece);
+				if (unitMonoOnTopOfGrid)
+				{
+					// move command
+					
+				}
+				else
+				{
+					// show info about land
+					GridSelection(selectedGridPiece);
+				}
 			}
+
+			_lastSelectedGridPiece = selectedGridPiece;
 		}
+		
+		void ResetLastSelectedGridPiece() { _lastSelectedGridPiece = null; }
+		
+		void GridSelection(GridPiece selectedGridPiece)
+		{
+			_infoPanelSO.ShowGridPieceInfo(selectedGridPiece);
+			selectedGridPiece.SetGridMaterialToHighlighted(_gridPieceHighlightEffectSO);
+		}
+
+		/// <summary>
+		/// Shows all possible pathways
+		/// </summary>
+		/// <param name="selectedGridPiece"></param>
 		void UnitSelection(GridPiece selectedGridPiece)
 		{
 			// show info about unit
 			_infoPanelSO.ShowUnitInfo(selectedGridPiece.UnitMonoOnTopOfGrid);
-			_lastPickedUnit = selectedGridPiece.UnitMonoOnTopOfGrid;
+			_lastSelectedGridPiece = selectedGridPiece;
 
 			List<GridPiece> gridPieces = PathFinder.GetAvailablePaths(selectedGridPiece.UnitMonoOnTopOfGrid);
 			foreach (GridPiece gridPiece in gridPieces)
@@ -72,12 +97,13 @@ namespace Scriptable_Objects
 				}
 				
 				_highlightedGridPieces.Clear();
-			}	
+			}
+			ResetLastSelectedGridPiece();
 		}
 		
-		void SendAttackCommandToBattleController(UnitMono attacker)
+		void SendAttackCommandToBattleController(UnitMono attackReceiver)
 		{
-			_battleController.Attack(attacker, _lastPickedUnit);
+			_battleController.Attack(_lastSelectedGridPiece.UnitMonoOnTopOfGrid, attackReceiver);
 		}
 	}
 }

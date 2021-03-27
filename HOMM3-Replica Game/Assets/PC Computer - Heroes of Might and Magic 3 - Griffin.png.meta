@@ -1,0 +1,4272 @@
+fileFormatVersion: 2
+guid: 95037e5b11e37244db7183267899cfda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3020972474148784515
+    second: Griffin_Idle_0
+  - first:
+      213: 7638068688263710275
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_1
+  - first:
+      213: -7489125913162815746
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_2
+  - first:
+      213: 7035005857753204361
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_3
+  - first:
+      213: -30609269396952076
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_4
+  - first:
+      213: -5828869790391088175
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_5
+  - first:
+      213: -2440224914136799613
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_6
+  - first:
+      213: -7911492820047518625
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_7
+  - first:
+      213: 6298584751029816021
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_8
+  - first:
+      213: 2002520705380696651
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_9
+  - first:
+      213: -8152400457784644280
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_10
+  - first:
+      213: 7120563575901601851
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_11
+  - first:
+      213: -8200445326253994828
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_12
+  - first:
+      213: -3273615535088658217
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_13
+  - first:
+      213: 775854658337440705
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_14
+  - first:
+      213: 5428482465573551566
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_15
+  - first:
+      213: -4862510128869606093
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_16
+  - first:
+      213: 700240257695590777
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_17
+  - first:
+      213: 7910101466751612126
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_18
+  - first:
+      213: 6013362136137931668
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_19
+  - first:
+      213: -5008664520876159690
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_20
+  - first:
+      213: 2411511420446193486
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_21
+  - first:
+      213: 2324336010861263209
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_22
+  - first:
+      213: 7589154889830949842
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_23
+  - first:
+      213: 4670109943103053496
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_24
+  - first:
+      213: -3015209104932340974
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_25
+  - first:
+      213: -3953786095111598682
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_26
+  - first:
+      213: -5232481281492934666
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_27
+  - first:
+      213: -236409083631375088
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_28
+  - first:
+      213: -4437331195250948991
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_29
+  - first:
+      213: 6959734210198622471
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_30
+  - first:
+      213: 8731956345217681365
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_31
+  - first:
+      213: 8044784438035117542
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_32
+  - first:
+      213: 9005729939405404260
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_33
+  - first:
+      213: 9216379241296176067
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_34
+  - first:
+      213: 6391630725520896024
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_35
+  - first:
+      213: -3803113082760895841
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_36
+  - first:
+      213: -275737455236020241
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_37
+  - first:
+      213: 2087096773711053019
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_38
+  - first:
+      213: -2525207025888987623
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_39
+  - first:
+      213: -70074163743769324
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_40
+  - first:
+      213: 2704797000838879571
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_41
+  - first:
+      213: -3156194354305685398
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_42
+  - first:
+      213: -2955719722328863418
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_43
+  - first:
+      213: -7720638914353658908
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_44
+  - first:
+      213: 4486299529409262234
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_45
+  - first:
+      213: -3601591154572762939
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_46
+  - first:
+      213: -2582600065300045051
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_47
+  - first:
+      213: -8145237666711328948
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_48
+  - first:
+      213: 3579551203829760760
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_49
+  - first:
+      213: -27169221682104138
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_50
+  - first:
+      213: -1766857255704537396
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_51
+  - first:
+      213: -5001672768374807344
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_52
+  - first:
+      213: 2713429596460991591
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_53
+  - first:
+      213: -4876744201497997611
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_54
+  - first:
+      213: -7775673138172562720
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_55
+  - first:
+      213: -3134658258548615412
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_56
+  - first:
+      213: -2042318081282602775
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_57
+  - first:
+      213: 1686454552322307030
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_58
+  - first:
+      213: -8568550144149594795
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_59
+  - first:
+      213: 9216432784994419765
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_60
+  - first:
+      213: -1988090130619921376
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_61
+  - first:
+      213: -9037787694099701404
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_62
+  - first:
+      213: -8505164404862420304
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_63
+  - first:
+      213: 7824639404704965994
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_64
+  - first:
+      213: -527285515375021433
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_65
+  - first:
+      213: 6620591892825650966
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_66
+  - first:
+      213: 3387618056792397852
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_67
+  - first:
+      213: 5716498914232683767
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_68
+  - first:
+      213: 8899554623934088327
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_69
+  - first:
+      213: 6648047099293531237
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_70
+  - first:
+      213: -1886597389919644556
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_71
+  - first:
+      213: -5391650239428741546
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_72
+  - first:
+      213: 230016416150514328
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_73
+  - first:
+      213: 1502619545717625584
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_74
+  - first:
+      213: 3099134016516688426
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_75
+  - first:
+      213: -5568440240546663762
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_76
+  - first:
+      213: 5815995864470985147
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_77
+  - first:
+      213: -2515056758615639589
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_78
+  - first:
+      213: 3240035010255523584
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_79
+  - first:
+      213: 6594267998335869319
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_80
+  - first:
+      213: -8663191778320890125
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_81
+  - first:
+      213: 5395071583780087529
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_82
+  - first:
+      213: -8735806343295335572
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_83
+  - first:
+      213: -1374585013151461628
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_84
+  - first:
+      213: 7457135465304357626
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_85
+  - first:
+      213: 1579915175434622611
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_86
+  - first:
+      213: 7586552279720159922
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_87
+  - first:
+      213: 8853783533083069503
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_88
+  - first:
+      213: 1500795677195500812
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_89
+  - first:
+      213: -6241345590819954698
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_90
+  - first:
+      213: 3130975673784264318
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_91
+  - first:
+      213: -4939292542206247050
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_92
+  - first:
+      213: 3523843998270743834
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_93
+  - first:
+      213: -2240542422520991452
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_94
+  - first:
+      213: -2208751932550315280
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_95
+  - first:
+      213: 7944384480479876129
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_96
+  - first:
+      213: 3217523867234881838
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_97
+  - first:
+      213: 5521336023763907519
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_98
+  - first:
+      213: 1366055851032917081
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_99
+  - first:
+      213: 4940189981383170156
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_100
+  - first:
+      213: -8661248571749265636
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_101
+  - first:
+      213: 3347646481863132715
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_102
+  - first:
+      213: -7982025684652936011
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_103
+  - first:
+      213: -7071314608078748400
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_104
+  - first:
+      213: -1896000235076958104
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_105
+  - first:
+      213: -8089303338330811558
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_106
+  - first:
+      213: 8830572377709793883
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_107
+  - first:
+      213: 8946241093358168809
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_108
+  - first:
+      213: -6585737808844163098
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_109
+  - first:
+      213: 7260107311144538204
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_110
+  - first:
+      213: -902359399974683691
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_111
+  - first:
+      213: 1800548681858222511
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_112
+  - first:
+      213: 7539094288799968953
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_113
+  - first:
+      213: -4426512418276431880
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_114
+  - first:
+      213: 2610447543974763849
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_115
+  - first:
+      213: -6120432191934420214
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_116
+  - first:
+      213: 3592255107089460409
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_117
+  - first:
+      213: 7441977236770345785
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_118
+  - first:
+      213: 8039343796557876999
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_119
+  - first:
+      213: 7953546059012849250
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_120
+  - first:
+      213: -5176268411386767750
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_121
+  - first:
+      213: 4564566800530165760
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_122
+  - first:
+      213: 1935959846172695837
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_123
+  - first:
+      213: -383274838731200178
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_124
+  - first:
+      213: 5483225168982416006
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_125
+  - first:
+      213: -2397896277760452327
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_126
+  - first:
+      213: -8247464541115455526
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_127
+  - first:
+      213: 5033536663327421113
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_128
+  - first:
+      213: -4856295280207281458
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_129
+  - first:
+      213: 369333133062019543
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_130
+  - first:
+      213: 1377804644393992298
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_131
+  - first:
+      213: -3728173924851686930
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_132
+  - first:
+      213: 4625140115614343091
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_133
+  - first:
+      213: -5676297073171647987
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_134
+  - first:
+      213: 6267126911558371469
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_135
+  - first:
+      213: -4216032423468463878
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_136
+  - first:
+      213: -408033872393831683
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_137
+  - first:
+      213: -5567512172283483820
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_138
+  - first:
+      213: -5583266572212171541
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_139
+  - first:
+      213: -7200909688086573668
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_140
+  - first:
+      213: 7849918838606032342
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_141
+  - first:
+      213: 684432695842524120
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_142
+  - first:
+      213: -1401777620419265411
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_143
+  - first:
+      213: 5424349954023834784
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_144
+  - first:
+      213: 3526937923257330065
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_145
+  - first:
+      213: 5175455668690265711
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_146
+  - first:
+      213: 2964149504232366352
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_147
+  - first:
+      213: 1682677751135858791
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_148
+  - first:
+      213: -5663286361313348444
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_149
+  - first:
+      213: 6372389027470187723
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_150
+  - first:
+      213: 2568376593742252234
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_151
+  - first:
+      213: -6139804985289543790
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_152
+  - first:
+      213: 5981155868387216637
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_153
+  - first:
+      213: -6203123681488308238
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_154
+  - first:
+      213: 6332174305489825391
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_155
+  - first:
+      213: 2496781730784119335
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_156
+  - first:
+      213: -2805862441065378483
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_157
+  - first:
+      213: 6441845726178400224
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_158
+  - first:
+      213: 6882229931860260464
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_159
+  - first:
+      213: -5654587871510256772
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_160
+  - first:
+      213: -1212790928417661910
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_161
+  - first:
+      213: -1253024546640883237
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_162
+  - first:
+      213: -3121711993534935565
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_163
+  - first:
+      213: 4633118514870861989
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_164
+  - first:
+      213: 9131962292292795965
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_165
+  - first:
+      213: -7544724334532866644
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_166
+  - first:
+      213: 3428905800509876447
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_167
+  - first:
+      213: -9140092977658250625
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_168
+  - first:
+      213: -6266485762756413968
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_169
+  - first:
+      213: 5865605907392572639
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_170
+  - first:
+      213: -5230886195923022498
+    second: PC Computer - Heroes of Might and Magic 3 - Griffin_171
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Griffin_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1084
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3890fdd9576ace920800000000000000
+      internalID: 3020972474148784515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1084
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3460ef5f00fdff960800000000000000
+      internalID: 7638068688263710275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1084
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e1cb39a7411890800000000000000
+      internalID: -7489125913162815746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_3
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1084
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9860c28fd8c51a160800000000000000
+      internalID: 7035005857753204361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_4
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1084
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba2ca1801439ff0800000000000000
+      internalID: -30609269396952076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1085
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbcbbdeec1bb1fa0800000000000000
+      internalID: -5828869790391088175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 952
+        width: 123
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38661d49e54922ed0800000000000000
+      internalID: -2440224914136799613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 952
+        width: 113
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54a302723bb43290800000000000000
+      internalID: -7911492820047518625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_8
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 955
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da03d0b571196750800000000000000
+      internalID: 6298584751029816021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_9
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 957
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42c493c8f16acb10800000000000000
+      internalID: 2002520705380696651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_10
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 954
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84da3071afadcde80800000000000000
+      internalID: -8152400457784644280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_11
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 975
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30433e88d251d260800000000000000
+      internalID: 7120563575901601851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_12
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 938
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc4e907c6a223e80800000000000000
+      internalID: -8200445326253994828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_13
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 949
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d817d3e308c192d0800000000000000
+      internalID: -3273615535088658217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_14
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 950
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3098b73b364ca00800000000000000
+      internalID: 775854658337440705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 822
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdb2f58a08d55b40800000000000000
+      internalID: 5428482465573551566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 852
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dfcfbecc4e48cb0800000000000000
+      internalID: -4862510128869606093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 863
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979af59edc0c7b900800000000000000
+      internalID: 700240257695590777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 863
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4b60fdf5356cd60800000000000000
+      internalID: 7910101466751612126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 863
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b194ea001c37350800000000000000
+      internalID: 6013362136137931668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 863
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d0312c726ad7ab0800000000000000
+      internalID: -5008664520876159690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_21
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 800
+        width: 108
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e473e733cd8677120800000000000000
+      internalID: 2411511420446193486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_22
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 801
+        width: 129
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969b80a7943b14020800000000000000
+      internalID: 2324336010861263209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_23
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 804
+        width: 150
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3eac9c928125960800000000000000
+      internalID: 7589154889830949842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_24
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 803
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be5dacff309fc040800000000000000
+      internalID: 4670109943103053496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_25
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 799
+        width: 106
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bfbf85b43d726d0800000000000000
+      internalID: -3015209104932340974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_26
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 799
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad8efa9e745129c0800000000000000
+      internalID: -3953786095111598682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 834
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff9bb25ffd7267b0800000000000000
+      internalID: -5232481281492934666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 834
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01de974e03b18bcf0800000000000000
+      internalID: -236409083631375088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_29
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 834
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184ce44b9ce6b62c0800000000000000
+      internalID: -4437331195250948991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 834
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701d502d361f59060800000000000000
+      internalID: 6959734210198622471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_31
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 834
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d70be638042e2970800000000000000
+      internalID: 8731956345217681365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 834
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e57ca3c2d0d4af60800000000000000
+      internalID: 8044784438035117542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 834
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468fb5d5aa7cafc70800000000000000
+      internalID: 9005729939405404260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_34
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 834
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c32eb8e61827ef70800000000000000
+      internalID: 9216379241296176067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 834
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8103522d742a3b850800000000000000
+      internalID: 6391630725520896024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 831
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92656d0dc0a83bc0800000000000000
+      internalID: -3803113082760895841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 834
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe70361de326c2cf0800000000000000
+      internalID: -275737455236020241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 834
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd049e0357bd6fc10800000000000000
+      internalID: 2087096773711053019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_39
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 834
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916f09dc699a4fcd0800000000000000
+      internalID: -2525207025888987623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_40
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 834
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dbe1a5beb070ff0800000000000000
+      internalID: -70074163743769324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_41
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 834
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3591b88aa8e598520800000000000000
+      internalID: 2704797000838879571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_42
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 834
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68248df4f1f234d0800000000000000
+      internalID: -3156194354305685398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_43
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 834
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dc8f6929c2bf6d0800000000000000
+      internalID: -2955719722328863418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_44
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 831
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e384e620d7cad490800000000000000
+      internalID: -7720638914353658908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_45
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 834
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92f07e07a9824e30800000000000000
+      internalID: 4486299529409262234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 818
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0608d4de3940ec0800000000000000
+      internalID: -3601591154572762939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 818
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503e3ee7ce2c82cd0800000000000000
+      internalID: -2582600065300045051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_48
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 816
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c472a885f7d46fe80800000000000000
+      internalID: -8145237666711328948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_49
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 818
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24897cade1da130800000000000000
+      internalID: 3579551203829760760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 818
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b870d0acb97f9ff0800000000000000
+      internalID: -27169221682104138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_51
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 818
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6d8e8efacda77e0800000000000000
+      internalID: -1766857255704537396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_52
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 815
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4664efd1d769ab0800000000000000
+      internalID: -5001672768374807344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_53
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 818
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764c61477d908a520800000000000000
+      internalID: 2713429596460991591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_54
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 818
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de0441acf2525cb0800000000000000
+      internalID: -4876744201497997611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_55
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 818
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e27da56a72471490800000000000000
+      internalID: -7775673138172562720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_56
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 818
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0717f60ce47f74d0800000000000000
+      internalID: -3134658258548615412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_57
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 818
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e80bc6968a38a3e0800000000000000
+      internalID: -2042318081282602775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 818
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f209ea7d776710800000000000000
+      internalID: 1686454552322307030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_59
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 818
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d57d1ca05661980800000000000000
+      internalID: -8568550144149594795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_60
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 818
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5344bd589c857ef70800000000000000
+      internalID: 9216432784994419765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_61
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 655
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c80fe3f82e864e0800000000000000
+      internalID: -1988090130619921376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_62
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 658
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4616ac9f9f3539280800000000000000
+      internalID: -9037787694099701404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_63
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 662
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baf0eb390697f980800000000000000
+      internalID: -8505164404862420304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_64
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 660
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65a6f4f414b69c60800000000000000
+      internalID: 7824639404704965994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_65
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 646
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782fcd01e94bea8f0800000000000000
+      internalID: -527285515375021433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_66
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 645
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61734b6cf3111eb50800000000000000
+      internalID: 6620591892825650966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_67
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 650
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c185fcd9cac330f20800000000000000
+      internalID: 3387618056792397852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 508
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcceb5a975155f40800000000000000
+      internalID: 5716498914232683767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_69
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 513
+        width: 131
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784c6c257c1918b70800000000000000
+      internalID: 8899554623934088327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_70
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 508
+        width: 118
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cf47b2d9b924c50800000000000000
+      internalID: 6648047099293531237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_71
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 502
+        width: 138
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47419a36ba571d5e0800000000000000
+      internalID: -1886597389919644556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_72
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 496
+        width: 146
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65633b56ca20d25b0800000000000000
+      internalID: -5391650239428741546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_73
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 492
+        width: 123
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ae82936be213300800000000000000
+      internalID: 230016416150514328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_74
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 502
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2de0ff3806ad410800000000000000
+      internalID: 1502619545717625584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_75
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 506
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a8ec5d7f5520b20800000000000000
+      internalID: 3099134016516688426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_76
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 438
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2b935aa1de8b2b0800000000000000
+      internalID: -5568440240546663762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 332
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb91fec9c6196b050800000000000000
+      internalID: 5815995864470985147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_78
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 429
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9f4c01439b81dd0800000000000000
+      internalID: -2515056758615639589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_79
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 337
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f0c16ecaae6fc20800000000000000
+      internalID: 3240035010255523584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_80
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 336
+        width: 128
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781298a7ecb838b50800000000000000
+      internalID: 6594267998335869319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_81
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 335
+        width: 134
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f649182af826c780800000000000000
+      internalID: -8663191778320890125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_82
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 386
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6240965052fda40800000000000000
+      internalID: 5395071583780087529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_83
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 335
+        width: 122
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6307414a6e24c680800000000000000
+      internalID: -8735806343295335572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_84
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 369
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0881a63e7cece0800000000000000
+      internalID: -1374585013151461628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_85
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 369
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afafe6332311d7760800000000000000
+      internalID: 7457135465304357626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_86
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 370
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39697073b7cfce510800000000000000
+      internalID: 1579915175434622611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_87
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 369
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba66a66a19d84960800000000000000
+      internalID: 7586552279720159922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_88
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 371
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c8e97c635feda70800000000000000
+      internalID: 8853783533083069503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_89
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 352
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dfda387b5e3d410800000000000000
+      internalID: 1500795677195500812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_90
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 347
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffd9b2d0494269a0800000000000000
+      internalID: -6241345590819954698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_91
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 332
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76ec4469c5737b20800000000000000
+      internalID: 3130975673784264318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_92
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 174
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f7f043a9b147bb0800000000000000
+      internalID: -4939292542206247050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_93
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 166
+        width: 104
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15e1d0427537e030800000000000000
+      internalID: 3523843998270743834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_94
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 171
+        width: 88
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4217171a98ef7e0e0800000000000000
+      internalID: -2240542422520991452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_95
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 274
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2816fd1dfe851e0800000000000000
+      internalID: -2208751932550315280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_96
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 277
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241126089f104e60800000000000000
+      internalID: 7944384480479876129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_97
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 271
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2150eaf8e0f6ac20800000000000000
+      internalID: 3217523867234881838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_98
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 171
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3f30e3cd9bf9c40800000000000000
+      internalID: 5521336023763907519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_99
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 270
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95439201f8435f210800000000000000
+      internalID: 1366055851032917081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_100
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 263
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6899432d941f8440800000000000000
+      internalID: 4940189981383170156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_101
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 266
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f868130501dc780800000000000000
+      internalID: -8661248571749265636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_102
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 173
+        width: 127
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26c9091dba357e20800000000000000
+      internalID: 3347646481863132715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_103
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 248
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4b73e2ee52a3190800000000000000
+      internalID: -7982025684652936011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_104
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 255
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0158f6254d4addd90800000000000000
+      internalID: -7071314608078748400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_105
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 169
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684e26e4dd00b5e0800000000000000
+      internalID: -1896000235076958104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_106
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 256
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53196609750dbf80800000000000000
+      internalID: -8089303338330811558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_107
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 252
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52d4c88ace7c8a70800000000000000
+      internalID: 8830572377709793883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_108
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 231
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaad9c00ee672c70800000000000000
+      internalID: 8946241093358168809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_109
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 235
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7fbf70b52ca94a0800000000000000
+      internalID: -6585737808844163098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_110
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 171
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c509cff322511c460800000000000000
+      internalID: 7260107311144538204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_111
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 232
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db36c818ec2a73f0800000000000000
+      internalID: -902359399974683691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_112
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 214
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa905f68c75dcf810800000000000000
+      internalID: 1800548681858222511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_113
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 215
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be2914df4e30a860800000000000000
+      internalID: 7539094288799968953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_114
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 215
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f727c2886ed192c0800000000000000
+      internalID: -4426512418276431880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_115
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 204
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d1863e53c2a3420800000000000000
+      internalID: 2610447543974763849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_116
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 207
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b22ef495bdf0ba0800000000000000
+      internalID: -6120432191934420214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_117
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 204
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc66a0ccf04ad130800000000000000
+      internalID: 3592255107089460409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_118
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 168
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9335d381ed6374760800000000000000
+      internalID: 7441977236770345785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_119
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 191
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f8215b69c719f60800000000000000
+      internalID: 8039343796557876999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_120
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e3b20400ca06e60800000000000000
+      internalID: 7953546059012849250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_121
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 182
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76573d0e433a28b0800000000000000
+      internalID: -5176268411386767750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_122
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 182
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000542b2259985f30800000000000000
+      internalID: 4564566800530165760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_123
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 180
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d1b821939edda10800000000000000
+      internalID: 1935959846172695837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_124
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 179
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49e41a90955eaaf0800000000000000
+      internalID: -383274838731200178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_125
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a9da46d34581c40800000000000000
+      internalID: 5483225168982416006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_126
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 25
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9195bdb3a06f8bed0800000000000000
+      internalID: -2397896277760452327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_127
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 25
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7ee2162be1b8d80800000000000000
+      internalID: -8247464541115455526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_128
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 24
+        width: 118
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2398d2de6bad540800000000000000
+      internalID: 5033536663327421113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_129
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 24
+        width: 136
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2c6d22c29fa9cb0800000000000000
+      internalID: -4856295280207281458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_130
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 23
+        width: 146
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d991f71782202500800000000000000
+      internalID: 369333133062019543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_131
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 73
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60ccfe2602fe1310800000000000000
+      internalID: 1377804644393992298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_132
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 70
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1675c619dd24cc0800000000000000
+      internalID: -3728173924851686930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_133
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 70
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf1a9b1e6ccf2040800000000000000
+      internalID: 4625140115614343091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_134
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b302e2edb931b0800000000000000
+      internalID: -5676297073171647987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_135
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 73
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d884abda8be49f650800000000000000
+      internalID: 6267126911558371469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_136
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 73
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af802ad29d4ad75c0800000000000000
+      internalID: -4216032423468463878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_137
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 70
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa73abda5f565af0800000000000000
+      internalID: -408033872393831683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_138
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 20
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45921606d293cb2b0800000000000000
+      internalID: -5567512172283483820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_139
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 52
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec0bfc42a04482b0800000000000000
+      internalID: -5583266572212171541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_140
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 55
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d4eed6aca311c90800000000000000
+      internalID: -7200909688086573668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_141
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 55
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd62c2d79380fc60800000000000000
+      internalID: 7849918838606032342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_142
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 55
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db4b5c19e79f7900800000000000000
+      internalID: 684432695842524120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_143
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 55
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c31d06ea2eb8ce0800000000000000
+      internalID: -1401777620419265411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_144
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 39
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a44ff23b89274b40800000000000000
+      internalID: 5424349954023834784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_145
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 39
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1996b9cca5332f030800000000000000
+      internalID: 3526937923257330065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_146
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 39
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66a01b8289e2d740800000000000000
+      internalID: 5175455668690265711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_147
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011abe4f446c22920800000000000000
+      internalID: 2964149504232366352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_148
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760f7ebdf721a5710800000000000000
+      internalID: 1682677751135858791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_149
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 39
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a47a9c4f07f761b0800000000000000
+      internalID: -5663286361313348444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_150
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc15f0ee064f6850800000000000000
+      internalID: 6372389027470187723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_151
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 39
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac84f6777e4b4a320800000000000000
+      internalID: 2568376593742252234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_152
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 37
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fe4ad55e70bcaa0800000000000000
+      internalID: -6139804985289543790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_153
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc8671a295510350800000000000000
+      internalID: 5981155868387216637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_154
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 39
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7731390e31ae9a0800000000000000
+      internalID: -6203123681488308238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_155
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 39
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ea3964bf660e750800000000000000
+      internalID: 6332174305489825391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_156
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 39
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a821171c956a220800000000000000
+      internalID: 2496781730784119335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_157
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d00b7d9f29f09d0800000000000000
+      internalID: -2805862441065378483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_158
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 39
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e75bbebe88066950800000000000000
+      internalID: 6441845726178400224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_159
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 20
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076771fc8a7928f50800000000000000
+      internalID: 6882229931860260464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_160
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7326674a4ed681b0800000000000000
+      internalID: -5654587871510256772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_161
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c59d4831d4b2fe0800000000000000
+      internalID: -1212790928417661910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_162
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 23
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd110aa40dc5c9ee0800000000000000
+      internalID: -1253024546640883237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_163
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd064e3b737da4d0800000000000000
+      internalID: -3121711993534935565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_164
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 20
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0c921fdb42c4040800000000000000
+      internalID: 4633118514870861989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_165
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ebf56525f3bbe70800000000000000
+      internalID: 9131962292292795965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_166
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad4ceff031cb4790800000000000000
+      internalID: -7544724334532866644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_167
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8eaaf88abe59f20800000000000000
+      internalID: 3428905800509876447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_168
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 23
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a33a4fcddd72180800000000000000
+      internalID: -9140092977658250625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_169
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f57cd86668f809a0800000000000000
+      internalID: -6266485762756413968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_170
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc2196de71d66150800000000000000
+      internalID: 5865605907392572639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Griffin_171
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 23
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d838f18b82867b0800000000000000
+      internalID: -5230886195923022498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

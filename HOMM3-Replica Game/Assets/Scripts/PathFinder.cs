@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
 public static class PathFinder
@@ -43,19 +44,28 @@ public static class PathFinder
 
 	static List<GridPiece> GetNeighbors(GridPiece gridPiece)
 	{
-		List<GridPiece> gridPieces = new List<GridPiece>();
+		List<GridPiece> result = new List<GridPiece>();
 
-		for (int i = 0; i < 360; i += 90)
+		List<Vector2Int> temp = new List<Vector2Int>
 		{
-			Vector2Int neighborIndex = gridPiece.GridIndex
-				+ new Vector2Int(Mathf.RoundToInt(Mathf.Cos(i * Mathf.Deg2Rad)),
-					Mathf.RoundToInt(Mathf.Sin(i * Mathf.Deg2Rad)));
+			gridPiece.GridIndex + new Vector2Int(-1, 0),
+			gridPiece.GridIndex + new Vector2Int(1, 0),
+			gridPiece.GridIndex + new Vector2Int(-1, 1),
+			gridPiece.GridIndex + new Vector2Int(1, 1),
+			gridPiece.GridIndex + new Vector2Int(-1, -1),
+			gridPiece.GridIndex + new Vector2Int(1, -1)
+		};
+		// west and east are straightforward (-1,0) and (+1,0), diagonals are north west (-1, +1), north east (+1, +1), south west (-1, -1), south east (+1, -1)
 
-			GridPiece result = GridPiece.GetGridPieceByIndex(neighborIndex);
-			if (result != null)
-				gridPieces.Add(result);
+		foreach (Vector2Int vector2Int in temp)
+		{
+			GridPiece foundGridPieceByIndex = GridPiece.GetGridPieceByIndex(vector2Int);
+			if (foundGridPieceByIndex != null && !foundGridPieceByIndex.HasUnit())
+			{
+				result.Add(foundGridPieceByIndex);
+			}
 		}
-		
-		return gridPieces;
+
+		return result;
 	}
 }

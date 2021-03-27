@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b08c452cb0463fe45afd6482f17e565f, type: 3}
-  m_Name: Guardian Unit Config
+  m_Name: Griffin Unit Config
   m_EditorClassIdentifier: 
-  AttackPower: 3
-  DefensePower: 7
-  MaxHealth: 25
-  DamagePower: 2
-  MoveSpeed: 2
-  CostPerUnit: 3
+  AttackPower: 5
+  DefensePower: 2
+  MaxHealth: 15
+  DamagePower: 6
+  MoveSpeed: 5
+  CostPerUnit: 4
   Growth: 2
-  Tier: 4
+  Tier: 1
   IsUpgraded: 0
   AttackType: {fileID: 0}
   Ammo: 0

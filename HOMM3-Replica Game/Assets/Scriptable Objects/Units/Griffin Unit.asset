@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 00ab6a4281dc4c1d8c3bbbc6c08a271e, type: 3}
-  m_Name: Guardian Unit
+  m_Script: {fileID: 11500000, guid: d46789831b9b4709b6d78b779adc355c, type: 3}
+  m_Name: Griffin Unit
   m_EditorClassIdentifier: 
-  UnitConfig: {fileID: 11400000, guid: 4d71d786a4f753d4392b8bb6f6896723, type: 2}
-  _uniqueDefenseBonus: 0.4
+  UnitConfig: {fileID: 11400000, guid: 42b024a86bf741047904782aff1a58d3, type: 2}
+  _uniqueAttackBonus: 0.2

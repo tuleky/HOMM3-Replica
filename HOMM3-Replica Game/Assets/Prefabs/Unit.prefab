@@ -89,7 +89,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55d2bdc046f24d1a921ea323c2af12d0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _battlingUnitsRunTimeList: {fileID: 11400000, guid: 5151f0d61789f184ab5435866a747494, type: 2}
   unitMono: {fileID: 8845016589756182730}
 --- !u!1 &7409859116943054159
 GameObject:
@@ -161,13 +160,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 88543654441695407, guid: 52742138447be1841af0657708c985ec, type: 3}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: -5567512172283483820, guid: 95037e5b11e37244db7183267899cfda, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.41, y: 0.89}
+  m_Size: {x: 0.49, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
