@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Collections.Generic;
 using Commands;
 using Scriptable_Objects;
@@ -49,10 +50,19 @@ public class UnitMono : MonoBehaviour
 	{
 		_currentHealth -= damage;
 	}
-	
-	void Move()
+
+	public IEnumerator MoveCoroutine(MoveCommand moveCommand)
 	{
-		
+		int lastElementIndex = moveCommand.Path.Count - 1;
+		GridPiece targetPoint = moveCommand.Path[lastElementIndex];
+		int i = 0;
+		while (GridIndex != targetPoint.GridIndex)
+		{
+			transform.position = moveCommand.Path[i].transform.position;
+			i++;
+			
+			yield return new WaitForSeconds(0.2f);
+		}
 	}
 
 	void OnEnable()

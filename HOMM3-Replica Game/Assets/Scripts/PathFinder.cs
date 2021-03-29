@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
 
 public static class PathFinder
@@ -16,46 +15,53 @@ public static class PathFinder
 		new Vector2Int(1, -1)
 	};
 
-	static Dictionary<GridPiece, GridPiece> cameFromDictionary = new Dictionary<GridPiece, GridPiece>();
-	
-	public static List<GridPiece> GetAvailablePaths(UnitMono chosenUnitMono)
+	static Dictionary<GridPiece, GridPiece> cameFrom = new Dictionary<GridPiece, GridPiece>();
+
+	public static List<GridPiece> CalculateMoveablePaths(UnitMono chosenUnitMono)
 	{
-		// try to map a moveable cells based on chosen unit and grids
-		
-		// here we will do pathfinding solution for finding all possible moveable paths
 		GridPiece startingPointGridPiece = GridPiece.GetGridPieceByIndex(chosenUnitMono.GridIndex);
-		
-		
-		List<GridPiece> availableGridPieces = new List<GridPiece>();
 
-		List<GridPiece> tempIteration = new List<GridPiece>
-		{
-			startingPointGridPiece
-		};
+		cameFrom[startingPointGridPiece] = startingPointGridPiece;
+		
+		List<GridPiece> moveableGridPieces = new List<GridPiece>();
 
+		Queue<GridPiece> frontiers = new Queue<GridPiece>();
+		frontiers.Enqueue(startingPointGridPiece);
+		
 		for (int i = 0; i < chosenUnitMono.MoveSpeed; i++)
 		{
 			// dynamically change startingPointGridPiece so every iteration calculates for new points
+			GridPiece currentPiece = frontiers.Dequeue();
 
-			List<GridPiece> newNeighbors = new List<GridPiece>();
-			foreach (GridPiece gridPiece in tempIteration)
+			// new neighbors is new ones we just found 
+			foreach (GridPiece gridPiece in GetNeighbors(currentPiece))
 			{
-				newNeighbors.AddRange(GetNeighbors(gridPiece));
-			}
-			tempIteration = newNeighbors;
-
-			foreach (GridPiece gridPiece in newNeighbors)
-			{
-				if (!availableGridPieces.Contains(gridPiece))
+				if (!moveableGridPieces.Contains(gridPiece))
 				{
-					availableGridPieces.Add(gridPiece);
+					moveableGridPieces.Add(gridPiece);
+					frontiers.Enqueue(gridPiece);
+					cameFrom[gridPiece] = currentPiece;
 				}
 			}
 		}
 
-		return availableGridPieces;
+		return moveableGridPieces;
 	}
 
+	public static List<GridPiece> GetPathToTargetGridPiece(GridPiece startingGridPiece, GridPiece targetGridPiece)
+	{
+		List<GridPiece> tracedBackPath = new List<GridPiece>();
+		GridPiece currentPiece = targetGridPiece;
+		
+		while (currentPiece != startingGridPiece)
+		{
+			tracedBackPath.Add(currentPiece);
+			currentPiece = cameFrom[currentPiece];
+		}
+		tracedBackPath.Reverse();
+		return tracedBackPath;
+	}
+	
 	static List<GridPiece> GetNeighbors(GridPiece gridPiece)
 	{
 		List<GridPiece> result = new List<GridPiece>();
@@ -71,10 +77,4 @@ public static class PathFinder
 
 		return result;
 	}
-
-	static void TraceBackFromGoalToStart()
-	{
-		
-	}
-	
 }

@@ -10,7 +10,7 @@ namespace Scriptable_Objects
 		[SerializeField] GridPieceHighlightEffectSO _gridPieceHighlightEffectSO;
 		
 		
-		readonly List<GridPiece> _highlightedGridPieces = new List<GridPiece>();
+		readonly List<GridPiece> _moveableGridPieces = new List<GridPiece>();
 		GridPiece _lastSelectedGridPiece;
 
 		BattleController _battleController;
@@ -22,16 +22,16 @@ namespace Scriptable_Objects
 
 		public void OnGridPieceSelected(GridPiece selectedGridPiece)
 		{
-			UnitMono unitMonoOnTopOfGrid = null;
+			UnitMono lastSelectedUnitMono = null;
 			if (_lastSelectedGridPiece)
 			{
 				_lastSelectedGridPiece.SetMaterialToDefault();
-				unitMonoOnTopOfGrid = _lastSelectedGridPiece.UnitMonoOnTopOfGrid;
+				lastSelectedUnitMono = _lastSelectedGridPiece.UnitMonoOnTopOfGrid;
 			}
 			
 			if (selectedGridPiece.HasUnit())
 			{
-				if (unitMonoOnTopOfGrid && unitMonoOnTopOfGrid != selectedGridPiece.UnitMonoOnTopOfGrid)
+				if (lastSelectedUnitMono && lastSelectedUnitMono != selectedGridPiece.UnitMonoOnTopOfGrid)
 				{
 					// attack command
 					SendAttackCommandToBattleController(selectedGridPiece.UnitMonoOnTopOfGrid);
@@ -45,10 +45,11 @@ namespace Scriptable_Objects
 			}
 			else
 			{
-				if (unitMonoOnTopOfGrid)
+				if (lastSelectedUnitMono && _moveableGridPieces.Contains(selectedGridPiece))
 				{
 					// move command
-					
+					List<GridPiece> pathToTargetGridPiece = PathFinder.GetPathToTargetGridPiece(_lastSelectedGridPiece, selectedGridPiece);
+					SendMoveCommandToBattleController(selectedGridPiece.UnitMonoOnTopOfGrid, pathToTargetGridPiece);
 				}
 				else
 				{
@@ -59,7 +60,7 @@ namespace Scriptable_Objects
 
 			_lastSelectedGridPiece = selectedGridPiece;
 		}
-		
+
 		void ResetLastSelectedGridPiece() { _lastSelectedGridPiece = null; }
 		
 		void GridSelection(GridPiece selectedGridPiece)
@@ -78,10 +79,10 @@ namespace Scriptable_Objects
 			_infoPanelSO.ShowUnitInfo(selectedGridPiece.UnitMonoOnTopOfGrid);
 			_lastSelectedGridPiece = selectedGridPiece;
 
-			List<GridPiece> gridPieces = PathFinder.GetAvailablePaths(selectedGridPiece.UnitMonoOnTopOfGrid);
+			List<GridPiece> gridPieces = PathFinder.CalculateMoveablePaths(selectedGridPiece.UnitMonoOnTopOfGrid);
 			foreach (GridPiece gridPiece in gridPieces)
 			{
-				_highlightedGridPieces.Add(gridPiece);
+				_moveableGridPieces.Add(gridPiece);
 			}
 
 			GridExtension.SetAllGridsToHighlighted(gridPieces, _gridPieceHighlightEffectSO);
@@ -89,21 +90,26 @@ namespace Scriptable_Objects
 
 		public void OnSelectingNull()
 		{
-			if (_highlightedGridPieces.Count > 0)
+			if (_moveableGridPieces.Count > 0)
 			{
-				foreach (GridPiece gridPiece in _highlightedGridPieces)
+				foreach (GridPiece gridPiece in _moveableGridPieces)
 				{
 					gridPiece.SetMaterialToDefault();
 				}
 				
-				_highlightedGridPieces.Clear();
+				_moveableGridPieces.Clear();
 			}
 			ResetLastSelectedGridPiece();
 		}
 		
 		void SendAttackCommandToBattleController(UnitMono attackReceiver)
 		{
-			_battleController.Attack(_lastSelectedGridPiece.UnitMonoOnTopOfGrid, attackReceiver);
+			_battleController.ExecuteAttack(_lastSelectedGridPiece.UnitMonoOnTopOfGrid, attackReceiver);
+		}
+		
+		void SendMoveCommandToBattleController(UnitMono movingUnit, List<GridPiece> pathToTargetGridPiece)
+		{
+			_battleController.ExecuteMove(movingUnit, pathToTargetGridPiece);		
 		}
 	}
 }

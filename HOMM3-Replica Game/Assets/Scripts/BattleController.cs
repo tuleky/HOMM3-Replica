@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using Commands;
 using Scriptable_Objects;
 using UnityEngine;
@@ -25,13 +26,20 @@ public class BattleController : MonoBehaviour
 			unit.SetUnitToGrid();
 	}
 
-	public void Attack(UnitMono attackerUnitMono, UnitMono takingAttackUnitMono)
+	public void ExecuteAttack(UnitMono attackerUnitMono, UnitMono takingAttackUnitMono)
 	{
 		AttackCommand attackCommand = new AttackCommand(attackerUnitMono, takingAttackUnitMono);
 		attackCommand.Execute();
-		print("sending attack command");
+		print("executing attack command");
 	}
 
+	public void ExecuteMove(UnitMono movingUnit, List<GridPiece> pathToTargetGridPiece)
+	{
+		MoveCommand moveCommand = new MoveCommand(movingUnit, pathToTargetGridPiece);
+		moveCommand.Execute();
+		print("executing move command");
+	}
+	
 	public void UndoCommand()
 	{
 		CommandBuffer.Undo();
