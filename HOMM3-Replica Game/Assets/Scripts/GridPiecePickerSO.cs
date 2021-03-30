@@ -13,20 +13,20 @@ public class GridPiecePickerSO : ScriptableObject
 	{
 		if (Input.GetMouseButtonDown(0))
 		{
-			battleSelectionManager.OnSelectingNull();
-		
 			Vector2 originPoint = _cameraContainer.Camera.ScreenToWorldPoint(Input.mousePosition);
 			Vector2 targetDirection = _cameraContainer.Camera.transform.forward;
 		
 			RaycastHit2D hitInfo2D = Physics2D.Raycast(originPoint, targetDirection, 20f, pickableLayer);
 
-			if (hitInfo2D.collider != null)
+			GridPiece pickedUpGridPiece = hitInfo2D.collider.GetComponent<GridPiece>();
+			
+			if (pickedUpGridPiece != null)
 			{
-				GridPiece pickedUpGridPiece = hitInfo2D.collider.GetComponent<GridPiece>();
-				if (pickedUpGridPiece != null)
-				{
-					battleSelectionManager.OnGridPieceSelected(pickedUpGridPiece);
-				}
+				battleSelectionManager.OnGridPieceSelected(pickedUpGridPiece);
+			}
+			else
+			{
+				battleSelectionManager.ResetAllSelectionStates();
 			}
 		}
 	}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Griffin Unit Config
   m_EditorClassIdentifier: 
   AttackPower: 5
-  DefensePower: 2
+  DefensePower: 0
   MaxHealth: 15
   DamagePower: 6
   MoveSpeed: 5

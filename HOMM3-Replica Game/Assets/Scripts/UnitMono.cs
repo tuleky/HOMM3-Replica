@@ -58,13 +58,19 @@ public class UnitMono : MonoBehaviour
 		int i = 0;
 		while (GridIndex != targetPoint.GridIndex)
 		{
-			transform.position = moveCommand.Path[i].transform.position;
+			MoveToGrid(moveCommand.Path[i]);
 			i++;
 			
 			yield return new WaitForSeconds(0.2f);
 		}
 	}
 
+	void MoveToGrid(GridPiece targetGridPiece)
+	{
+		GridIndex = targetGridPiece.GridIndex;
+		transform.position = targetGridPiece.transform.position;
+	}
+	
 	void OnEnable()
 	{
 		_currentHealth = _unit.UnitConfig.MaxHealth;
