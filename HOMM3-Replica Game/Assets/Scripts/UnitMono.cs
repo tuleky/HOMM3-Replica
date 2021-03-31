@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using Commands;
 using Scriptable_Objects;
 using UnityEngine;
@@ -11,12 +10,10 @@ public class UnitMono : MonoBehaviour
 	public Vector2Int GridIndex;
 	
 	public int MoveSpeed => _unit.UnitConfig.MoveSpeed;
-	public int DamageMultipliedByAttack => _unit.UnitConfig.AttackPower * _unit.UnitConfig.DamagePower;
-	public int DefensePower => _unit.UnitConfig.DefensePower;
+	public int AttackPower => _unit.UnitConfig.AttackPower;
 	
 	int _currentHealth;
 	
-	[ContextMenu("Set Unit To Grid")]
 	public void SetUnitToGrid()
 	{
 		GridPiece targetGridPiece = GridPiece.GridPieces[GridIndex];
@@ -41,11 +38,6 @@ public class UnitMono : MonoBehaviour
 		_unit.TrySpecialDamageTake(attackCommand, damage);
 	}
 
-	public int GetReducedDamageByDefensePower(int damage)
-	{
-		return damage - DefensePower;
-	}
-	
 	public void TakeDamage(int damage)
 	{
 		_currentHealth -= damage;

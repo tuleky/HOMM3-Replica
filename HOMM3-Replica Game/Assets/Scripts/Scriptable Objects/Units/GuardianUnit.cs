@@ -10,8 +10,7 @@ namespace Scriptable_Objects.Units
 
 		public override void TrySpecialDamageTake(AttackCommand attackCommand, int calculatedFinalDamage)
 		{
-			int damageReducedByDefensePower = attackCommand.AttackReceiver.GetReducedDamageByDefensePower(calculatedFinalDamage);
-			int receivingDamageAfterDefenseBonus = Mathf.RoundToInt((1f - _uniqueDefenseBonus) * damageReducedByDefensePower);
+			int receivingDamageAfterDefenseBonus = Mathf.RoundToInt((1f - _uniqueDefenseBonus) * calculatedFinalDamage);
 			attackCommand.AttackReceiver.TakeDamage(receivingDamageAfterDefenseBonus);
 		}
 	}

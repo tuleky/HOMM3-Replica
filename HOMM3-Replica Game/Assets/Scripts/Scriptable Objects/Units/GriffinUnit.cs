@@ -10,7 +10,7 @@ namespace Scriptable_Objects.Units
 		
 		public override void TrySpecialAttackToTarget(AttackCommand attackCommand)
 		{
-			int unitDamageMultipliedByAttack = attackCommand.Attacker.DamageMultipliedByAttack;
+			int unitDamageMultipliedByAttack = attackCommand.Attacker.AttackPower;
 			int dealingDamageAfterAttackBonus = unitDamageMultipliedByAttack + Mathf.RoundToInt(unitDamageMultipliedByAttack * _uniqueAttackBonus);
 			
 			attackCommand.AttackReceiver.CheckForSpecialDamageTaking(attackCommand, dealingDamageAfterAttackBonus);

@@ -6,9 +6,7 @@ namespace Scriptable_Objects
 	public class UnitConfig : ScriptableObject
 	{
 		public int AttackPower;
-		public int DefensePower;
 		public int MaxHealth;
-		public int DamagePower;
 		public int MoveSpeed;
 		public int CostPerUnit;
 		public int Growth;

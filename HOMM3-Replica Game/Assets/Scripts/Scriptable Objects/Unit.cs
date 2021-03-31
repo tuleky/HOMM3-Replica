@@ -10,15 +10,13 @@ namespace Scriptable_Objects
 		// This is standard form
 		public virtual void TrySpecialAttackToTarget(AttackCommand attackCommand)
 		{
-			//attackCommand.Attacker.SendTakeDamageCommand(attackCommand, attackCommand.Attacker.DamageMultipliedByAttack);
-			attackCommand.AttackReceiver.CheckForSpecialDamageTaking(attackCommand, attackCommand.Attacker.DamageMultipliedByAttack);
+			attackCommand.AttackReceiver.CheckForSpecialDamageTaking(attackCommand, attackCommand.Attacker.AttackPower);
 		}
 
 		// This is standard form
 		public virtual void TrySpecialDamageTake(AttackCommand attackCommand, int calculatedFinalDamage)
 		{
-			int finalDamageReducedByDefense = calculatedFinalDamage - attackCommand.AttackReceiver.DefensePower;
-			attackCommand.AttackReceiver.TakeDamage(finalDamageReducedByDefense);
+			attackCommand.AttackReceiver.TakeDamage(calculatedFinalDamage);
 		}
 	}
 }
