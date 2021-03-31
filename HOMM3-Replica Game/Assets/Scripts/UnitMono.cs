@@ -6,6 +6,7 @@ using UnityEngine;
 public class UnitMono : MonoBehaviour
 {
 	[SerializeField] Unit _unit;
+	[SerializeField] UnitUIController _unitUIController;
 	
 	public Vector2Int GridIndex;
 	
@@ -41,6 +42,7 @@ public class UnitMono : MonoBehaviour
 	public void TakeDamage(int damage)
 	{
 		_currentHealth -= damage;
+		_unitUIController.UpdateHealthText(_currentHealth);
 	}
 
 	public IEnumerator MoveCoroutine(MoveCommand moveCommand)
@@ -66,5 +68,7 @@ public class UnitMono : MonoBehaviour
 	void OnEnable()
 	{
 		_currentHealth = _unit.UnitConfig.MaxHealth;
+		_unitUIController.UpdateHealthText(_currentHealth);
+		_unitUIController.UpdateDamagePowerText(AttackPower);
 	}
 }

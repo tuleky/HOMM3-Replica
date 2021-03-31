@@ -51,6 +51,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5703412771821526844, guid: 9bd1370f46e3f1d4a9b0a99e446d6b84, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5703412771821526844, guid: 9bd1370f46e3f1d4a9b0a99e446d6b84, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6455467603880044295, guid: 9bd1370f46e3f1d4a9b0a99e446d6b84, type: 3}
       propertyPath: m_Name
       value: Griffin Variant Variant

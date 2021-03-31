@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: -2135585597343286014, guid: 4b2a04fdbe0ef4d8da8f90eaca817cd1, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.69803923}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -97,9 +97,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GridIndex: {x: 0, y: 0}
-  _infoPanelSO: {fileID: 11400000, guid: b8d6a4a3135fb3744966c7c9f5797686, type: 2}
   _spriteRenderer: {fileID: 7572805207895272733}
-  _gridPieceHighlightEffectSO: {fileID: 11400000, guid: 229e4e81f229ef4439d39af2177af689, type: 2}
 --- !u!60 &1155790189952179604
 PolygonCollider2D:
   m_ObjectHideFlags: 0

@@ -18,7 +18,7 @@ public class GridPiecePickerSO : ScriptableObject
 		
 			RaycastHit2D hitInfo2D = Physics2D.Raycast(originPoint, targetDirection, 20f, pickableLayer);
 
-			GridPiece pickedUpGridPiece = hitInfo2D.collider.GetComponent<GridPiece>();
+			GridPiece pickedUpGridPiece = hitInfo2D.collider != null ? hitInfo2D.collider.GetComponent<GridPiece>() : null;
 			
 			if (pickedUpGridPiece != null)
 			{
