@@ -7,11 +7,13 @@
       <Path>Library/PackageCache/com.unity.ext.nunit@1.0.6</Path>
       <Path>Library/PackageCache/com.unity.ide.rider@3.0.5</Path>
       <Path>Library/PackageCache/com.unity.mathematics@1.2.1</Path>
+      <Path>Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0</Path>
+      <Path>Library/PackageCache/com.unity.nuget.mono-cecil@1.10.1-preview.1</Path>
       <Path>Library/PackageCache/com.unity.quicksearch@2.0.2</Path>
-      <Path>Library/PackageCache/com.unity.render-pipelines.core@10.3.2</Path>
-      <Path>Library/PackageCache/com.unity.render-pipelines.universal@10.3.2</Path>
+      <Path>Library/PackageCache/com.unity.render-pipelines.core@10.4.0</Path>
+      <Path>Library/PackageCache/com.unity.render-pipelines.universal@10.4.0</Path>
       <Path>Library/PackageCache/com.unity.searcher@4.3.1</Path>
-      <Path>Library/PackageCache/com.unity.shadergraph@10.3.2</Path>
+      <Path>Library/PackageCache/com.unity.shadergraph@10.4.0</Path>
       <Path>Library/PackageCache/com.unity.test-framework@1.1.24</Path>
       <Path>Library/PackageCache/com.unity.textmeshpro@3.0.4</Path>
       <Path>Library/PackageCache/com.unity.timeline@1.5.4</Path>
@@ -20,6 +22,7 @@
     </explicitIncludes>
     <explicitExcludes>
       <Path>.idea</Path>
+      <Path>Bin</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>Temp</Path>

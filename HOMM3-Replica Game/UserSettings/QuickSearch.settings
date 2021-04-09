@@ -3,7 +3,7 @@ fetchPreview = true
 wantsMore = true
 dockable = false
 debug = false
-itemIconSize = 1
+itemIconSize = 71.739136
 queryFolder = "Assets/Editor/Queries"
 onBoardingDoNotAskAgain = true
 showPackageIndexes = false
@@ -16,7 +16,8 @@ filters = {
 	settings = true
 }
 scopes = {
-	"last_search.AB59B443" = ""
+	"last_search.AB59B443" = "dotween"
+	"last_search.00000000" = "dotween"
 }
 providers = {
 	asset = {
@@ -57,6 +58,31 @@ providers = {
 	query = {
 		active = true
 		priority = 100
+		defaultAction = null
+	}
+	menu = {
+		active = true
+		priority = 80
+		defaultAction = null
+	}
+	settings = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	help = {
+		active = true
+		priority = -1
+		defaultAction = null
+	}
+	calculator = {
+		active = true
+		priority = 10
+		defaultAction = null
+	}
+	static_methods = {
+		active = true
+		priority = 85
 		defaultAction = null
 	}
 }

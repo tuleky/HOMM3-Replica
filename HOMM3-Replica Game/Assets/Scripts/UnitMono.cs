@@ -1,10 +1,19 @@
 using System.Collections;
 using Commands;
+using MLAPI;
+using MLAPI.Messaging;
+using MLAPI.NetworkVariable;
 using Scriptable_Objects;
 using UnityEngine;
 
 public class UnitMono : MonoBehaviour
 {
+	public NetworkVariableVector2 Position = new NetworkVariableVector2(new NetworkVariableSettings
+	{
+		WritePermission = NetworkVariablePermission.ServerOnly,
+		ReadPermission = NetworkVariablePermission.Everyone
+	});
+	
 	[SerializeField] Unit _unit;
 	[SerializeField] UnitUIController _unitUIController;
 	
@@ -19,7 +28,17 @@ public class UnitMono : MonoBehaviour
 	{
 		GridPiece targetGridPiece = GridPiece.GridPieces[GridIndex];
 		targetGridPiece.SetUnitToGrid(this);
-		transform.position = targetGridPiece.transform.position;
+		SetPosition(targetGridPiece);
+	}
+	void SetPosition(GridPiece targetGridPiece)
+	{
+		if (NetworkManager.Singleton.IsServer)
+		{
+			
+		}
+		var position = targetGridPiece.transform.position;
+		Position.Value = position;
+		transform.position = position;
 	}
 
 	/// <summary>
@@ -62,7 +81,23 @@ public class UnitMono : MonoBehaviour
 	void MoveToGrid(GridPiece targetGridPiece)
 	{
 		GridIndex = targetGridPiece.GridIndex;
-		transform.position = targetGridPiece.transform.position;
+
+		if (NetworkManager.Singleton.IsServer)
+		{
+			transform.position = targetGridPiece.transform.position;
+			Position.Value = targetGridPiece.transform.position;
+		}
+		else
+		{
+			SubmitPositionRequestServerRpc(targetGridPiece.transform.position);
+		}
+	}
+
+	[ServerRpc]
+	void SubmitPositionRequestServerRpc(Vector3 newPosition)
+	{
+		Position.Value = newPosition;
+		transform.position = Position.Value;
 	}
 	
 	void OnEnable()

@@ -8,10 +8,6 @@ public class GridPiece : MonoBehaviour
     public static GridPiece GetGridPieceByIndex(Vector2Int index)
     {
         GridPieces.TryGetValue(index, out GridPiece value);
-        // if (value == null)
-        // {
-        //     Debug.LogError($"There isn't any grid that has {index} index");
-        // }
         return value;
     }
     

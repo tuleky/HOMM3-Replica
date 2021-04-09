@@ -1,9 +1,11 @@
 using System.Collections.Generic;
 using Commands;
+using MLAPI;
+using MLAPI.Messaging;
 using Scriptable_Objects;
 using UnityEngine;
 
-public class BattleController : MonoBehaviour
+public class BattleController : NetworkBehaviour
 {
 	[SerializeField] GridPiecePickerSO _gridPiecePickerSO;
 	[SerializeField] BattleSelectionManager _battleSelectionManager;
@@ -19,13 +21,19 @@ public class BattleController : MonoBehaviour
 	}
 
 	// When strategy turn ends, set all of the units onto the grid they stand
-	[ContextMenu("Set All Units To Their Grid")]
-	public void SetAllUnitsToTheirGrid()
+	[ContextMenu("Set All Units To Their Grid"), ServerRpc]
+	public void SetAllUnitsToTheirGridServerRpc()
+	{
+		SetAllUnitsToGridClientRpc();
+	}
+
+	[ClientRpc]
+	void SetAllUnitsToGridClientRpc()
 	{
 		foreach (UnitMono unit in BattlingUnitsRunTimeList.Units)
 			unit.SetUnitToGrid();
 	}
-
+	
 	public void ExecuteAttack(UnitMono attackerUnitMono, UnitMono takingAttackUnitMono)
 	{
 		AttackCommand attackCommand = new AttackCommand(attackerUnitMono, takingAttackUnitMono);

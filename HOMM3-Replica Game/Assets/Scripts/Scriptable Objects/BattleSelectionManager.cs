@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using MLAPI.Messaging;
 using UnityEngine;
 
 namespace Scriptable_Objects
@@ -30,7 +31,7 @@ namespace Scriptable_Objects
 			
 			if (selectedGridPiece.HasUnit())
 			{
-				if (lastSelectedUnitMono && lastSelectedUnitMono != selectedGridPiece.UnitMonoOnTopOfGrid)
+				if (lastSelectedUnitMono && lastSelectedUnitMono != selectedGridPiece.UnitMonoOnTopOfGrid && _moveableGridPieces.Contains(selectedGridPiece))
 				{
 					// attack command
 					SendAttackCommandToBattleController(selectedGridPiece.UnitMonoOnTopOfGrid);
@@ -39,7 +40,8 @@ namespace Scriptable_Objects
 				}
 				else
 				{
-					UnitSelection(selectedGridPiece);
+					ResetAllSelectionStates();
+					UnitSelectionServerRpc(selectedGridPiece);
 				}
 			}
 			else
@@ -47,13 +49,14 @@ namespace Scriptable_Objects
 				if (lastSelectedUnitMono && _moveableGridPieces.Contains(selectedGridPiece))
 				{
 					// move command
-					SendMoveCommandToBattleController(selectedGridPiece);
+					SendMoveCommandToBattleControllerServerRpc(selectedGridPiece);
 					ResetAllSelectionStates();
 					return;
 				}
 				else
 				{
 					// show info about land
+					ResetAllSelectionStates();
 					GridSelection(selectedGridPiece);
 				}
 			}
@@ -67,16 +70,16 @@ namespace Scriptable_Objects
 			selectedGridPiece.SetGridMaterialToHighlighted(_gridPieceHighlightEffectSO);
 		}
 		
-		void UnitSelection(GridPiece selectedGridPiece)
+		[ServerRpc]
+		void UnitSelectionServerRpc(GridPiece selectedGridPiece)
 		{
 			// show info about unit
-			_infoPanelSO.ShowUnitInfo(selectedGridPiece.UnitMonoOnTopOfGrid);
+			//_infoPanelSO.ShowUnitInfo(selectedGridPiece.UnitMonoOnTopOfGrid);
 
 			_moveableGridPieces = PathFinder.CalculateMoveablePaths(selectedGridPiece.UnitMonoOnTopOfGrid);
-
 			GridExtension.SetAllGridsToHighlighted(_moveableGridPieces, _gridPieceHighlightEffectSO);
 		}
-
+		
 		public void ResetAllSelectionStates()
 		{
 			if (_moveableGridPieces.Count > 0)
@@ -96,7 +99,8 @@ namespace Scriptable_Objects
 			_battleController.ExecuteAttack(_lastSelectedGridPiece.UnitMonoOnTopOfGrid, attackReceiver);
 		}
 		
-		void SendMoveCommandToBattleController(GridPiece targetGridPiece)
+		[ServerRpc]
+		void SendMoveCommandToBattleControllerServerRpc(GridPiece targetGridPiece)
 		{
 			List<GridPiece> pathToTargetGridPiece = PathFinder.GetPathToTargetGridPiece(_lastSelectedGridPiece, targetGridPiece);
 			_battleController.ExecuteMove(_lastSelectedGridPiece.UnitMonoOnTopOfGrid, pathToTargetGridPiece);
